@@ -4,7 +4,7 @@ import News from './news'
 function App() {
   return (
     <div className="App">
-      <h3>News Summary Challenge</h3>
+      <h2 className='fontclaydig'>The Clayton Digest</h2>
       <News />
     </div>
   );

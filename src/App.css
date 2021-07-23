@@ -6,4 +6,8 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
-
+.fontclaydig{
+  font-family:monospace;
+  position: relative;
+  left: -350px;
+}

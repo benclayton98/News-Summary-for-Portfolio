@@ -18,6 +18,7 @@ class News extends Component{
             <div>
                 <h3 id='headline1' hidden="yes">This is a headline</h3>
                 <h1 id='headline2' title="apiHead" className='fontFamily'>{this.state.api.response.content.webTitle}</h1>
+                <img src={this.state.api.response.content.fields.thumbnail} id='img1' alt='image1'></img>
             </div>
         )
     }
