@@ -9,6 +9,6 @@ test('render headline1', () => {
 
 test('render headline2 from an API', () => {
     render(<News />);
-    const submitElement = screen.getByText("whatever the API shows");
+    const submitElement = screen.getByText('Link between diabetes and coronavirus infections');
     expect(submitElement).toBeInTheDocument();
   });
