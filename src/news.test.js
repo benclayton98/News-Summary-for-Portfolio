@@ -6,3 +6,9 @@ test('render headline1', () => {
   const submitElement = screen.getByText("This is a headline");
   expect(submitElement).toBeInTheDocument();
 });
+
+test('render headline2 from an API', () => {
+    render(<News />);
+    const submitElement = screen.getByText("whatever the API shows");
+    expect(submitElement).toBeInTheDocument();
+  });
