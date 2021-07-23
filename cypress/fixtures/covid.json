@@ -5,22 +5,19 @@
         "total": 1,
         "content": {
             "id": "world/2021/mar/22/link-between-diabetes-and-coronavirus-infections",
-            "imgUrl": "https://i.guim.co.uk/img/media/17c0b9d9466f4eb9644eebd2c4debe8eef195204/0_0_3500_2101/master/3500.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=473291e267968ab11f3366b67ed8acf5",
             "type": "article",
             "sectionId": "world",
             "sectionName": "World news",
             "webPublicationDate": "2021-03-22T17:11:24Z",
-            "webTitle": "Link between diabetes and coronavirus infections",
+            "webTitle": "Link between diabetes and coronavirus infections | Letters",
             "webUrl": "https://www.theguardian.com/world/2021/mar/22/link-between-diabetes-and-coronavirus-infections",
             "apiUrl": "https://content.guardianapis.com/world/2021/mar/22/link-between-diabetes-and-coronavirus-infections",
             "fields": {
-                "body": "<p>The possibility that Covid-19 could trigger diabetes (<a href=\"https://www.theguardian.com/world/2021/mar/19/doctors-suggest-link-between-covid-19-and-diabetes\" title=\"\">Doctors suggest Covid-19 could cause diabetes</a>, 19 March) fits with the experiences of paediatricians treating diabetic children in London and the south-east. Following the first Covid-19 wave, we undertook a study of 178 children from 12 hospitals in south and north-east London, Kent and Sussex who had developed type 1 diabetes between January and July 2020. We found that the prevalence of newly diagnosed children was high when compared with the levels of type 1 diabetes seen in the previous four years. But two inner south London hospitals had unusually high numbers of children with type 1 diabetes.</p> <p>The children who had developed diabetes in the pandemic were significantly sicker than before, with a higher level of <a href=\"https://www.nhs.uk/conditions/diabetic-ketoacidosis/\" title=\"\">diabetic ketoacidosis</a> when they arrived at hospital. This did not relate to a delay in coming to hospital. We also know of two children where there was evidence that their diabetes was triggered by a Covid-19 infection. We are undertaking detailed studies as we believe that there may be link between the two conditions; the cause of type 1 diabetes is complex, but it appears that asymptomatic or mildly symptomatic Covid-19 infections may be a trigger factor.<br incopy-break-type=\"webbreak\"><strong>Dr Tony Hulse </strong><em>Consultant paediatric endocrinologist, Evelina London children’s hospital, and </em><strong>Dr Caroline Ponmani</strong> <em>Consultant in paediatric emergency medicine, Queens hospital, Romford</em></p> <p>• Diabetes of both types is likely to arise after Covid-19 because each condition is due to inflammation, particularly in blood vessels. Problems in larger arteries precede overt type 2 diabetes by several years, with recent evidence showing smaller vessels are impaired. Whether that occurs in the pancreas, leading to type 1 diabetes, is not yet known.</p> <p>Excess fat tissue, which small blood vessels run through, is also inflamed, setting up a chronic “pro-inflammatory” state that Covid can aggravate. Such early damage promotes longer-term issues in both types of diabetes in the eyes and kidneys, with larger vessel damage underlying heart attacks and strokes.<br incopy-break-type=\"webbreak\"><strong>JK Cruickshank</strong><br incopy-break-type=\"webbreak\"><em>Emeritus professor, cardiovascular medicine and diabetes, King’s College London,</em><em> and </em><em>consultant physician, Guy’s &amp; St Thomas’ hospitals</em></p>"
+                "thumbnail": "https://media.guim.co.uk/17c0b9d9466f4eb9644eebd2c4debe8eef195204/0_0_3500_2101/500.jpg"
             },
             "isHosted": false,
             "pillarId": "pillar/news",
             "pillarName": "News"
-        
+        }
     }
-}
-
 }

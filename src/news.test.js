@@ -3,12 +3,19 @@ import News from './news.js'
 
 test('render headline1', () => {
   render(<News />);
-  const submitElement = screen.getByText("This is a headline");
-  expect(submitElement).toBeInTheDocument();
+  const headlineElement = screen.getByText("This is a headline");
+  expect(headlineElement).toBeInTheDocument();
 });
 
 test('render headline2 from an API', () => {
     render(<News />);
-    const submitElement = screen.getByText('Link between diabetes and coronavirus infections');
-    expect(submitElement).toBeInTheDocument();
+    const apiElement = screen.getByTitle("apiHead");
+    expect(apiElement).toBeInTheDocument();
   });
+
+
+test('render image1 from an API', () => {
+    render(<News />);
+    const apiElement = screen.getByAltText("image1");
+    expect(apiElement).toBeInTheDocument();
+});
