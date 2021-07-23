@@ -3,6 +3,7 @@ import App from './App';
 
 test('renders DFA Github link', () => {
   render(<App />);
-  const linkElement = screen.getByText(/Digital Futures Academy/i);
+  const linkElement = screen.getByText('News Summary Challenge');
   expect(linkElement).toBeInTheDocument();
 });
+
