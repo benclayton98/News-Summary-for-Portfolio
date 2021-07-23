@@ -41,5 +41,4 @@ describe('Home page', function(){
         cy.get('#article3').should('exist')
     })
 
-
 })
