@@ -3,6 +3,7 @@ describe('Home page', function(){
     beforeEach(function(){
         cy.intercept("https://content.guardianapis.com/world/2021/mar/22/*", {fixture: 'covid.json'})
         cy.intercept("https://content.guardianapis.com/football/2021/jun/05/*", {fixture: 'villa.json'})
+        cy.intercept("https://content.guardianapis.com/tv-and-radio/2021/jul/22/*", {fixture: 'clarkson.json'})
     })
 
     it('should display a headline', function(){
@@ -26,6 +27,18 @@ describe('Home page', function(){
         cy.get('#headline4').should('contain', 'The best thing Jeremy’s done: why I can’t wait for more Clarkson’s Farm')
         cy.get('#img2').should('have.attr', 'alt')
         cy.get('#img3').should('have.attr', 'alt')
+    })
+
+    it('should display the article', function (){
+        cy.visit('/')
+        cy.get('#article1').should('exist')
+    })
+
+    it('should display 3 articles', function (){
+        cy.visit('/')
+        cy.get('#article1').should('exist')
+        cy.get('#article2').should('exist')
+        cy.get('#article3').should('exist')
     })
 
 

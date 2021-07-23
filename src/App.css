@@ -1,13 +1,23 @@
+
+
 .App {
   text-align: center;
+  background-color: burlywood;
 }
 
 .fontFamily{
   font-family: 'Times New Roman', Times, serif;
+  margin-block-end:10pt;
 }
 
 .fontclaydig{
+  font-size: larger;
   font-family:monospace;
   position: relative;
-  left: -350px;
+  top:15px;
+  margin-bottom: 30px;
+}
+
+.hidden{
+  display:none;
 }

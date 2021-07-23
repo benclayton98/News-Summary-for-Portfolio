@@ -3,7 +3,7 @@ import App from './App';
 
 test('renders DFA Github link', () => {
   render(<App />);
-  const linkElement = screen.getByText('The Clayton Digest');
+  const linkElement = screen.getByText('The Clayton Digest | The Clayton Digest | The Clayton Digest | The Clayton Digest | The Clayton Digest | The Clayton Digest | The Clayton Digest | The Clayton Digest | The Clayton Digest | The Clayton Digest | The Clayton Digest | The Clayton Digest |');
   expect(linkElement).toBeInTheDocument();
 });
 
