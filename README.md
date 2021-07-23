@@ -1,4 +1,4 @@
-bf8daced-5acd-41f7-9836-fb4131e480cf - guardian
+
 
 # News Summary Challenge
 
