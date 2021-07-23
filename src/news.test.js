@@ -1,7 +1,8 @@
 import { render, screen } from '@testing-library/react';
-
+import News from './news.js'
 
 test('render headline1', () => {
-  const submitElement = screen.getByLabelText("This is a headline");
+  render(<News />);
+  const submitElement = screen.getByText("This is a headline");
   expect(submitElement).toBeInTheDocument();
 });
