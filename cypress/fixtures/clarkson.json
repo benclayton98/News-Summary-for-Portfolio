@@ -1,0 +1,23 @@
+{
+    "response": {
+        "status": "ok",
+        "userTier": "developer",
+        "total": 1,
+        "content": {
+            "id": "tv-and-radio/2021/jul/22/clarksons-farm-best-thing-jeremy-clarkson-has-done-amazon",
+            "type": "article",
+            "sectionId": "tv-and-radio",
+            "sectionName": "Television & radio",
+            "webPublicationDate": "2021-07-22T09:15:33Z",
+            "webTitle": "The best thing Jeremy’s done: why I can’t wait for more Clarkson’s Farm",
+            "webUrl": "https://www.theguardian.com/tv-and-radio/2021/jul/22/clarksons-farm-best-thing-jeremy-clarkson-has-done-amazon",
+            "apiUrl": "https://content.guardianapis.com/tv-and-radio/2021/jul/22/clarksons-farm-best-thing-jeremy-clarkson-has-done-amazon",
+            "fields": {
+                "thumbnail": "https://media.guim.co.uk/f00fa1f2b7166aac2f3d297224f946c21ed004ef/245_231_7867_4720/500.jpg"
+            },
+            "isHosted": false,
+            "pillarId": "pillar/arts",
+            "pillarName": "Arts"
+        }
+    }
+}

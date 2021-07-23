@@ -1,0 +1,23 @@
+{
+    "response": {
+        "status": "ok",
+        "userTier": "developer",
+        "total": 1,
+        "content": {
+            "id": "football/2021/jun/05/aston-villa-agree-30m-deal-for-norwich-midfielder-emiliano-buendia",
+            "type": "article",
+            "sectionId": "football",
+            "sectionName": "Football",
+            "webPublicationDate": "2021-06-05T17:38:32Z",
+            "webTitle": "Aston Villa agree £30m deal for Norwich midfielder Emiliano Buendía",
+            "webUrl": "https://www.theguardian.com/football/2021/jun/05/aston-villa-agree-30m-deal-for-norwich-midfielder-emiliano-buendia",
+            "apiUrl": "https://content.guardianapis.com/football/2021/jun/05/aston-villa-agree-30m-deal-for-norwich-midfielder-emiliano-buendia",
+            "fields": {
+                "thumbnail": "https://media.guim.co.uk/0159d7f40654e02a7aad22818a2302027d0ab7b5/0_45_2884_1730/500.jpg"
+            },
+            "isHosted": false,
+            "pillarId": "pillar/sport",
+            "pillarName": "Sport"
+        }
+    }
+}
