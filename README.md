@@ -1,6 +1,23 @@
-
-
 # News Summary Challenge
+
+
+## How to use
+
+Clone the repository using 'git clone' and the SSH address.
+
+Then type in 'npm install' to install all of the relevant dependencies.
+
+To run the program, type in 'npm start'
+
+*Side Note* The Aylien software was unavailable and I found nothing to adequately replace it. As a result, I stubbed the program with the relevant information. To run the stubbed version of the program, type in 'npx cypress open'
+
+## Approach
+
+I began by thinking how I wanted to format the page. I then began by ensuring my headlines were able to be taken from the relevant APIs before formatting them on my page. Once that was complete, I decided to focus on doing the same but with the thumbnails from the same APIs, which I then also formatted. 
+
+Then I decided to try and tackle some of the extended criteria, for which I managed the first two sections.
+
+
 
 ### Task
 
