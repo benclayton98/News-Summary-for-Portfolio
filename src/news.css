@@ -1,0 +1,30 @@
+body{
+    background: rgb(255,23,23);
+    background: linear-gradient(357deg, rgba(255,23,23,1) 0%, rgba(255,149,61,1) 100%);
+}
+
+.article{
+    width: 1000px;
+    margin-left: 300px;
+    margin-right: 100px;
+}
+
+.urlLink{
+    width: 1000px;
+    font-weight: bolder;
+    margin-left: 300px;
+    margin-right: 100px;
+}
+
+.fontclaydig{
+    font-size: larger;
+    font-family:monospace;
+    position: relative;
+    top:15px;
+    margin-bottom: 30px;
+  }
+  
+.hidden{
+    display:none;
+  }
+  

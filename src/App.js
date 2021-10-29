@@ -1,4 +1,5 @@
 import './App.css';
+import './news.css';
 import News from './news'
 
 function App() {
